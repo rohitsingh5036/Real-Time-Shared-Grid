@@ -2,9 +2,8 @@
 
 A real-time collaborative pixel art game where players compete to claim tiles on a shared grid. Built with modern web technologies for instant, multiplayer fun.
 
-![Pixelfront Screenshot](
-    ![alt text](image-1.png)
-) 
+<img width="1679" height="925" alt="image" src="https://github.com/user-attachments/assets/188b6064-ca5f-48de-9cc3-3deb6853c470" />
+
 
 ## 🎮 Features
 
